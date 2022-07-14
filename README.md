@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 
+
+About: 
+
+- :books: I’m currently learning Vue.js, Typescript, Node.js, JavaScript.
+
+⭐️ From [LooseLi](https://github.com/LooseLi)
 
 <!--
 **LooseLi/LooseLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
