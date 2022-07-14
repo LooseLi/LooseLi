@@ -4,6 +4,8 @@ About:
 
 - :books: I’m currently learning Vue.js, Typescript, Node.js, JavaScript.
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LooseLi&theme=tokyonight&show_icons=true" />
+
 ⭐️ From [LooseLi](https://github.com/LooseLi)
 
 <!--
