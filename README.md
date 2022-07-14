@@ -2,7 +2,8 @@
 
 About: 
 
-- :books: I’m currently learning Vue.js, Typescript, Node.js, JavaScript.
+- :books: &nbsp; I’m currently learning Vue.js, Typescript, Node.js, JavaScript.
+- :point_right: &nbsp; [my blog](http://looseli.com/)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LooseLi&theme=tokyonight&show_icons=true" />
 
