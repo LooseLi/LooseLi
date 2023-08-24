@@ -2,7 +2,7 @@
 
 About Me: 
 
-- :man_technologist: &nbsp; I’m currently learning Vue.js, Typescript, Node.js, JavaScript.
+- :man_technologist: &nbsp; I’m currently learning Vue, JavaScript, Typescript, Node.js, React.
 - :point_right: &nbsp; [My blog](https://www.looseli.top/)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LooseLi&theme=tokyonight&show_icons=true" />
