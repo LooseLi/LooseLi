@@ -7,7 +7,7 @@
 
 - 👨🏻‍💻 &nbsp; I'm a FrontEnd Engineer.
 - 🌱 &nbsp; I'm currently learning Web development and English. 
-- 👉 &nbsp; [My blog](https://www.looseli.top)
+- 👉 &nbsp; [My blog](https://looseli.top/)
 
 #### 🚀 Languages and Tools <br />
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
