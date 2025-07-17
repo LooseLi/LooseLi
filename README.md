@@ -6,7 +6,7 @@
 </picture>
 
 - 👨🏻‍💻 &nbsp; I'm a FrontEnd Engineer.
-- 🌱 &nbsp; I'm currently learning Web development and flutter. 
+- 🌱 &nbsp; I'm currently learning Web development and Flutter. 
 - 👉 &nbsp; [My blog](https://looseli.top/)
 
 #### 🚀 Languages and Tools <br />
