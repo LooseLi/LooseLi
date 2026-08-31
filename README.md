@@ -6,7 +6,7 @@
 </picture>
 
 - 👨🏻‍💻 &nbsp; I'm a FrontEnd Engineer.
-- 🌱 &nbsp; I'm currently learning Flutter、Vibe Coding.
+- 🌱 &nbsp; I'm currently learning English、Vibe Coding.
 - 👉 &nbsp; [My blog](https://looseli.top/)
 
 #### 🚀 Languages and Tools <br />
